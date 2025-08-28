@@ -1,6 +1,6 @@
 # Event Website
 
-Event Website is a modern web application to discover, explore, and manage events. Built with Next.js, it provides users with upcoming and past events, event details, and a dynamic homepage. Admins can seed events and manage content via Sanity CMS.
+Event Website is a modern web application to discover, explore, and manage events. Built with Next.js, it provides users with upcoming and past events, event details, and a homepage. Admin can seed events and manage content via Sanity CMS.
 
 🚀 Features
 Homepage
@@ -15,7 +15,7 @@ Admin / CMS
 
 Sanity CMS Integration: Manage events and homepage content.
 
-Dynamic Slugs: Each event has a unique URL slug.
+Slugs: Each event has a unique URL slug.
 
 Backend & API
 
@@ -27,9 +27,9 @@ Fully asynchronous data fetching with Next.js App Router.
 
 🛠 Technology Stack
 
-Frontend: Next.js 13+, React.js, Tailwind CSS, Framer Motion
+Frontend: Next.js 15
 
-Backend / CMS: Sanity.io
+CMS: Sanity.io
 
 Database: Sanity Dataset
 
