@@ -13,7 +13,7 @@ Event Filters: Filter events by upcoming, past, or all.
 
 Admin / CMS
 
-Sanity CMS Integration: Manage events and homepage content.
+Sanity CMS Integration: Manage events and homepage content. ( Email : u4259335@gmail.com,  Pass : Qwerty%123 )
 
 Slugs: Each event has a unique URL slug.
 
